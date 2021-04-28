@@ -8,3 +8,7 @@ Repository for Cox models for DataSHIELD.
 * https://github.com/neelsoumya/datashield_testing_basic/blob/master/development_plan.pdf
 
 * https://github.com/neelsoumya/datashield_testing_basic/blob/master/development_plan.rmd
+
+* https://github.com/neelsoumya/dsSurvivalClient
+
+* https://github.com/neelsoumya/dsSurvival
